@@ -47,7 +47,7 @@ The summary will be added by me when I finish the course.
 
 ## Finished apps
 
-### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="18"/> [I-am-poor]()
+### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="18"/> [I-am-poor](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2004%20-%20I-Am-Poor)
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/I%20Am%20Poor.png)
 
 Copyright © The App Brewery
@@ -61,7 +61,7 @@ Copyright © The App Brewery
 	* `ImageView`
 	
 	
-### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-two_32-fe0f-20e3.png" height="18"/> [Dicee]()
+### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-two_32-fe0f-20e3.png" height="18"/> [Dicee](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2005%20-%20iOS%20Dice%20App)
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Dicee%2B.gif)
 
 Copyright © The App Brewery
