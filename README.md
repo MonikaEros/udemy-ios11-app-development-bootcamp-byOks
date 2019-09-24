@@ -201,4 +201,4 @@ Symbol|  -   | Description
 * [Apple Documentation: Swift](https://developer.apple.com/documentation/swift)
 
 ##
-Copyright © Yurii Oksamytnyi
+<p align="right">Copyright © Yurii Oksamytnyi</p>
