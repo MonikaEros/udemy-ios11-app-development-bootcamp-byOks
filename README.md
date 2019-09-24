@@ -199,3 +199,6 @@ Symbol|  -   | Description
 ## Important Links
 
 * [Apple Documentation: Swift](https://developer.apple.com/documentation/swift)
+
+##
+Copyright © Yurii Oksamytnyi
