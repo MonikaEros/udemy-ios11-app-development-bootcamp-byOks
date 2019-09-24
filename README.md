@@ -33,12 +33,12 @@ The summary will be added by me when I finish the course.
 ## Progress
 №	       |App Name       | ReadMe Created  | Completed       | Quick Link  
 :-------------:|:-------------:| :-------------: | :-----------:   |  :-----------:
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="17"/>  	       |I-Am-Poor      | ✔️             | ✔️         | [Link](https://github.com/OksTrololo/Learning/tree/master/Udemy/iOS/Section%2004%20-%20I-Am-Poor)
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-two_32-fe0f-20e3.png" height="17"/>	       |Dicee	       | ✔️ 		| ✔️         | [Link](https://github.com/OksTrololo/Learning/tree/master/Udemy/iOS/Section%2005%20-%20iOS%20Dice%20App/Dicee/Dicee)
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-three_33-fe0f-20e3.png" height="17"/>	         |Magic 8 Ball   | ✔️   	  | ✔️         | [Link](https://github.com/OksTrololo/Learning/tree/master/Udemy/iOS/Section%2006%20-%20Magic%208%20Ball/Magic%208%20Ball)
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-four_34-fe0f-20e3.png" height="17"/>	        |Xylophone      | ✔️   		 | ✔️         | [Link](https://github.com/OksTrololo/Learning/tree/master/Udemy/iOS/Section%2008%20-%20Apple%20iOS%20APIs%20-%20Music%20App)
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-five_35-fe0f-20e3.png" height="17"/>	        |Quizzler       | ✔️   		 | ✔️         | [Link](https://github.com/OksTrololo/Learning/tree/master/Udemy/iOS/Section%2009%20-%20MVC%20Design%20Pattern%20-%20Quizz%20App)
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-six_36-fe0f-20e3.png" height="17"/>	       |Destini	       | ✔️   		| ✔️         | [Link](https://github.com/OksTrololo/Learning/tree/master/Udemy/iOS/Section%2010%20-%20Control%20Flow%20-%20Story%20App%20Like%20Lifeline)
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="17"/>  	       |I-Am-Poor      | ✔️             | ✔️         | [Link](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2004%20-%20I-Am-Poor)
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-two_32-fe0f-20e3.png" height="17"/>	       |Dicee	       | ✔️ 		| ✔️         | [Link](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2005%20-%20iOS%20Dice%20App)
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-three_33-fe0f-20e3.png" height="17"/>	         |Magic 8 Ball   | ✔️   	  | ✔️         | [Link](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2006%20-%20Magic%208%20Ball)
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-four_34-fe0f-20e3.png" height="17"/>	        |Xylophone      | ✔️   		 | ✔️         | [Link](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2008%20-%20Apple%20iOS%20APIs%20-%20Music%20App)
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-five_35-fe0f-20e3.png" height="17"/>	        |Quizzler       | ✔️   		 | ✔️         | [Link](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2009%20-%20MVC%20Design%20Pattern%20-%20Quizz%20App)
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-six_36-fe0f-20e3.png" height="17"/>	       |Destini	       | ✔️   		| ✔️         | [Link](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2010%20-%20Control%20Flow%20-%20Story%20App%20Like%20Lifeline)
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-seven_37-fe0f-20e3.png" height="17"/>	         |Dicee (with AL)| ✔️   	  | ✔️         | [Link](https://github.com/OksTrololo/Learning/tree/master/Udemy/iOS/Section%2011%20-%20AutoLayOUt/Dicee)
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-eight_38-fe0f-20e3.png" height="17"/>	         |Clima	         | ✔️  		  | ⚠️ **(in progress)**        | [Link]()
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-nine_39-fe0f-20e3.png" height="17"/>	        |00000000000000 | ❌ 	        | ❌         | [Link]()
@@ -47,7 +47,7 @@ The summary will be added by me when I finish the course.
 
 ## Finished apps
 
-### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="18"/> [I-am-poor]()
+### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="18"/> [I-am-poor](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2004%20-%20I-Am-Poor)
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/I%20Am%20Poor.png)
 
 Copyright © The App Brewery
@@ -61,7 +61,7 @@ Copyright © The App Brewery
 	* `ImageView`
 	
 	
-### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-two_32-fe0f-20e3.png" height="18"/> [Dicee]()
+### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-two_32-fe0f-20e3.png" height="18"/> [Dicee](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2005%20-%20iOS%20Dice%20App)
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Dicee%2B.gif)
 
 Copyright © The App Brewery
@@ -75,7 +75,7 @@ Copyright © The App Brewery
 
 
 	
-### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-three_33-fe0f-20e3.png" height="18"/> [Magic 8 Ball]()
+### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-three_33-fe0f-20e3.png" height="18"/> [Magic 8 Ball](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2006%20-%20Magic%208%20Ball)
 ![Finished app](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
 
 Copyright © The App Brewery
@@ -85,7 +85,7 @@ Copyright © The App Brewery
 
 
 	    
-### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-four_34-fe0f-20e3.png" height="18"/> [Xylophone]()
+### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-four_34-fe0f-20e3.png" height="18"/> [Xylophone](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2008%20-%20Apple%20iOS%20APIs%20-%20Music%20App)
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Xylophone.png)
 
 Copyright © The App Brewery
@@ -102,7 +102,7 @@ Copyright © The App Brewery
 		
 
 
-### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-five_35-fe0f-20e3.png" height="18"/> [Quizzler]()
+### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-five_35-fe0f-20e3.png" height="18"/> [Quizzler](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2009%20-%20MVC%20Design%20Pattern%20-%20Quizz%20App)
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Quizzler.gif)
 
 Copyright © The App Brewery
@@ -116,7 +116,7 @@ Copyright © The App Brewery
 	
 
 
-### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-six_36-fe0f-20e3.png" height="18"/> [Destini]()
+### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-six_36-fe0f-20e3.png" height="18"/> [Destini](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2010%20-%20Control%20Flow%20-%20Story%20App%20Like%20Lifeline)
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
 
 Copyright © The App Brewery
@@ -131,7 +131,7 @@ Copyright © The App Brewery
 
 Copyright © The App Brewery
 
-* **Learnt skills**:
+* **Skills learnt**:
 	* `Auto Layout`
 	* Setting `constraints`
 	* How to create `containers` to configure `advanced layouts`
@@ -144,7 +144,7 @@ Copyright © The App Brewery
 
 Copyright © The App Brewery
 
-* **Learnt skills**:
+* **Skills learnt**:
 	*  Understand `Classes` and `Objects`, `properties`, `methods`, `enums`
 	* `Inheritance`, `override` keywoard
 	* `Initialization`, `Designated` and `Convenience Initializers`
@@ -162,16 +162,16 @@ Copyright © The App Brewery
 ## Syllabus
 Section №     | Name          | Skills gained   | Date Started  | Date Finished | Current Status  
 :-----------: | :------------------------------------: | :---------------------------------------------------: | :-----------: | :-----------: | :-----------: 
-1 |<p align="left">Getting Started with iOS 11 and Swift 4</p>|<ul align="left"><li>`Tools` and `Materials` for `iOS` 11 App Development</li><li>`The Anatomy` of an iOS App</li></ul> |11 Sep 2019|11 Sep 2019|✔️
-2 |<p align="left">iOS Interface Builder - The $999 App</p>|<ul align="left"><li>How to set up a new `Xcode` project</li><li>How to use the `Interface Builder` to design and create the appearance of your app</li><li>How to find your way around Xcode</li><li>How to change the `attributes` of various UI elements</li><li>How to `arrange` UI elements on screen by their setting their coordinates</li><li>How to `size` UI elements by changing their dimensions.</li></ul> |11 Sep 2019|11 Sep 2019|✔️
+1 |<p align="left">[Getting Started with iOS 11 and Swift 4](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2001%20-%20Getting%20Started%20with%20iOS%2011%20and%20Swift%204)</p>|<ul align="left"><li>`Tools` and `Materials` for `iOS` 11 App Development</li><li>`The Anatomy` of an iOS App</li></ul> |11 Sep 2019|11 Sep 2019|✔️
+2 |<p align="left">[iOS Interface Builder - The $999 App](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2002%20-%20The%20%24999%20App/I%20Am%20Rich)</p>|<ul align="left"><li>How to set up a new `Xcode` project</li><li>How to use the `Interface Builder` to design and create the appearance of your app</li><li>How to find your way around Xcode</li><li>How to change the `attributes` of various UI elements</li><li>How to `arrange` UI elements on screen by their setting their coordinates</li><li>How to `size` UI elements by changing their dimensions.</li></ul> |11 Sep 2019|11 Sep 2019|✔️
 3 |<p align="left">Sideloading in iOS</p>|<ul align="left"><li>How to run your app on your iPhone/iPad</li></ul>|11 Sep 2019|11 Sep 2019|✔️
-4 |<p align="left">***Coding Challenge #1*** - Using Interface Builder in Xcode </p>|<ul align="left"><li>Developing `The I Am Poor`  App</li></ul>|12 Sep 2019|12 Sep 2019|✔️
-5 |<p align="left">Build a iOS Dice App to Learn Swift Programming Basics</p>|<ul align="left"><li>Understand and use constants and variables</li><li>Understand and use Swift `arrays`.</li><li>Learn about `randomisation`.</li><li>Understand basic gesture controls and `motion` detection</li></ul>|12 Sep 2019|12 Sep 2019|✔️
-6 |<p align="left">***Coding Challenge #2*** - Swift Data Types, Variables and Arrays</p>|<ul align="left"><li>Developing `Magic 8 Ball`  App</li></ul>|12 Sep 2019|12 Sep 2019|✔️
-7 |<p align="left">Programming in Swift 4 ***for Beginners***</p>|<ul align="left"><li>How to use `Swift Playgrounds` and become familiar with Swift syntax</li><li>Understand the `data type` system and how to use Strings, Integers, and Doubles</li><li>Understand how to declare `constants` and `variables` using let or var</li><li>How to use Swift `functions` and understand their input parameters and return types</li><li>How to use `IF-ELSE` statements to control the flow of execution</li><li>Swift `loops`</li></ul> |13 Sep 2019|13 Sep 2019|✔️
-8 |<p align="left">Apple iOS APIs - Make a Music App</p>|<ul align="left"><li>Finding out how to play sound using `AVFoundation` and `AVAudioPlayer`</li><li>The `ViewController lifecycle`</li><li>`Error handling` using try and catch</li><li>Code refactoring</li><li>Basic `debugging` for array index out of range errors</li></ul> |13 Sep 2019|13 Sep 2019|✔️
-9 |<p align="left">The Model-View-Controller (MVC) Design Pattern - Make a Quiz App</p>|<ul align="left"><li>What is a `design pattern` and how is it used in programming</li><li>How to use the Model-View-Controller or `MVC` pattern for app development</li><li>Learn about `Object Oriented Programming`</li><li>How to store data locally</li><li>How to incorporate `third party libraries` and how to display Heads Up Displays (HUDs)</li><li>How to refactor code and stay organised./li><li>Learn about `class initialisation`</li><li>How to programmatically change UI elements such as Labels and Views</li><li>Start thinking about data encapsulation and how to keep your data safe from corruption</li></ul> |13 Sep 2019|13 Sep 2019|✔️
-10 |<p align="left">***Coding Challenge #3*** - Control Flow - Build a Story App Like Lifeline</p>|<ul align="left"><li>Developing `Destini`  App</li></ul>|13 Sep 2019|13 Sep 2019|✔️
+4 |<p align="left">[***Coding Challenge #1*** - Using Interface Builder in Xcode](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2004%20-%20I-Am-Poor)</p>|<ul align="left"><li>Developing `The I Am Poor`  App</li></ul>|12 Sep 2019|12 Sep 2019|✔️
+5 |<p align="left">[Build a iOS Dice App to Learn Swift Programming Basics](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2005%20-%20iOS%20Dice%20App)</p>|<ul align="left"><li>Understand and use constants and variables</li><li>Understand and use Swift `arrays`.</li><li>Learn about `randomisation`.</li><li>Understand basic gesture controls and `motion` detection</li></ul>|12 Sep 2019|12 Sep 2019|✔️
+6 |<p align="left">[***Coding Challenge #2*** - Swift Data Types, Variables and Arrays](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2006%20-%20Magic%208%20Ball)</p>|<ul align="left"><li>Developing `Magic 8 Ball`  App</li></ul>|12 Sep 2019|12 Sep 2019|✔️
+7 |<p align="left">[Programming in Swift 4 ***for Beginners***](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2007%20-%20Flow%20Control)</p>|<ul align="left"><li>How to use `Swift Playgrounds` and become familiar with Swift syntax</li><li>Understand the `data type` system and how to use Strings, Integers, and Doubles</li><li>Understand how to declare `constants` and `variables` using let or var</li><li>How to use Swift `functions` and understand their input parameters and return types</li><li>How to use `IF-ELSE` statements to control the flow of execution</li><li>Swift `loops`</li></ul> |13 Sep 2019|13 Sep 2019|✔️
+8 |<p align="left">[Apple iOS APIs - Make a Music App](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2008%20-%20Apple%20iOS%20APIs%20-%20Music%20App)</p>|<ul align="left"><li>Finding out how to play sound using `AVFoundation` and `AVAudioPlayer`</li><li>The `ViewController lifecycle`</li><li>`Error handling` using try and catch</li><li>Code refactoring</li><li>Basic `debugging` for array index out of range errors</li></ul> |13 Sep 2019|13 Sep 2019|✔️
+9 |<p align="left">[The Model-View-Controller (MVC) Design Pattern - Make a Quiz App](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2009%20-%20MVC%20Design%20Pattern%20-%20Quizz%20App)</p>|<ul align="left"><li>What is a `design pattern` and how is it used in programming</li><li>How to use the Model-View-Controller or `MVC` pattern for app development</li><li>Learn about `Object Oriented Programming`</li><li>How to store data locally</li><li>How to incorporate `third party libraries` and how to display Heads Up Displays (HUDs)</li><li>How to refactor code and stay organised./li><li>Learn about `class initialisation`</li><li>How to programmatically change UI elements such as Labels and Views</li><li>Start thinking about data encapsulation and how to keep your data safe from corruption</li></ul> |13 Sep 2019|13 Sep 2019|✔️
+10 |<p align="left">[***Coding Challenge #3*** - Control Flow - Build a Story App Like Lifeline](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2010%20-%20Control%20Flow%20-%20Story%20App%20Like%20Lifeline)</p>|<ul align="left"><li>Developing `Destini`  App</li></ul>|13 Sep 2019|13 Sep 2019|✔️
 11 |<p align="left">iOS Auto Layout and Setting Constraints</p>|<ul align="left"><li>How to add `constraints` and understand how auto layout works</li><li>How to Pin and Align UI elements</li><li>How to create `containers` to configure advanced layouts</li><li>How to debug auto layout errors</li><li>Understanding what Xcode needs in order to correctly layout a design</li><li>How to use `stack views` to easily layout your UI</li></ul> |19 Sep 2019|19 Sep 2019|✔️
 12 |<p align="left">Programming in Swift 4 ***for Intermediates***</p>|<ul align="left"><li>Understand `Classes` and `Objects`</li><li>Learn about `Properties`</li><li>How to create and use `Enumerations` `(Enums)`</li><li>Learn the difference between `Functions` and `Methods`</li><li>Learn about `Inheritance` and the `overridekeyword`</li><li>Learn about `Initialization`, including `Designated` and `Convenience Initializers`</li><li>Understand `Optional` Types, `Forced Unwrapping`, `Optional Binding` and `Optional Chaining`</li></ul> |19 Sep 2019|19 Sep 2019|✔️
 13 |<p align="left">Cocoapods, GPS, APIs, REST and Getting Web Content - Weather App</p>|<ul align="left"><li>How to use `CocoaPods` to manage and use `open source` code libraries</li><li>How to use the `Command Line` on Mac with Terminal</li><li>Learn about `Networking` calls</li><li>Use public web-based `APIs` to fetch data</li><li>How to parse data organised in `JSON` format</li><li>Learn about `Core Location` and utilising the iPhone’s inbuilt `GPS`</li><li>Learn about navigation between View Controllers using `Segues`</li><li>Introduction to `Delegates` and `Protocols`</li><li>How to pass data between View Controllers</li><li>Learn and use Swift `Switch` statements</li></ul> |19 Sep 2019|20 Sep 2019|⚠️ **(in progress)**
@@ -199,3 +199,6 @@ Symbol|  -   | Description
 ## Important Links
 
 * [Apple Documentation: Swift](https://developer.apple.com/documentation/swift)
+###
+<p align="right"><b>Copyright ©️</b></p>
+<p align="right"><b>Yurii Oksamytnyi</b></p>
