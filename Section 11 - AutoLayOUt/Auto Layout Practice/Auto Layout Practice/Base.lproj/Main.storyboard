@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Auto_Layout_Practice" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="a64-wO-EAO" userLabel="Top Container">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="333.5"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="artBoard" translatesAutoresizingMaskIntoConstraints="NO" id="yB2-22-MI9">
+                                        <rect key="frame" x="67.5" y="103" width="240" height="128"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="240" id="7tF-vX-nGs"/>
+                                            <constraint firstAttribute="height" constant="128" id="q4p-4D-pTj"/>
+                                        </constraints>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstItem="yB2-22-MI9" firstAttribute="centerX" secondItem="a64-wO-EAO" secondAttribute="centerX" id="YQq-44-qsx"/>
+                                    <constraint firstItem="yB2-22-MI9" firstAttribute="centerY" secondItem="a64-wO-EAO" secondAttribute="centerY" id="skh-kk-i2y"/>
+                                </constraints>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="vXB-I2-g3m" userLabel="Bottom Container">
+                                <rect key="frame" x="0.0" y="333.5" width="375" height="333.5"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="notebook" translatesAutoresizingMaskIntoConstraints="NO" id="HIS-lk-6WR">
+                                        <rect key="frame" x="67.5" y="103" width="240" height="128"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="128" id="ptd-N0-5mS"/>
+                                            <constraint firstAttribute="width" constant="240" id="s8x-6Z-c6U"/>
+                                        </constraints>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstItem="HIS-lk-6WR" firstAttribute="centerY" secondItem="vXB-I2-g3m" secondAttribute="centerY" id="Xba-cj-cQ5"/>
+                                    <constraint firstItem="HIS-lk-6WR" firstAttribute="centerY" secondItem="vXB-I2-g3m" secondAttribute="centerY" id="b0G-0b-HEL"/>
+                                    <constraint firstItem="HIS-lk-6WR" firstAttribute="centerX" secondItem="vXB-I2-g3m" secondAttribute="centerX" id="d7c-za-442"/>
+                                    <constraint firstItem="HIS-lk-6WR" firstAttribute="centerX" secondItem="vXB-I2-g3m" secondAttribute="centerX" id="xLZ-fF-Auo"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="a64-wO-EAO" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="3sK-mC-LtH"/>
+                            <constraint firstAttribute="trailing" secondItem="vXB-I2-g3m" secondAttribute="trailing" id="69h-Ju-gAj"/>
+                            <constraint firstItem="vXB-I2-g3m" firstAttribute="top" secondItem="a64-wO-EAO" secondAttribute="bottom" constant="0.5" id="IkS-ja-q3A"/>
+                            <constraint firstItem="vXB-I2-g3m" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="OVO-UH-3MO"/>
+                            <constraint firstItem="vXB-I2-g3m" firstAttribute="height" secondItem="a64-wO-EAO" secondAttribute="height" id="Ps1-mU-ldP"/>
+                            <constraint firstItem="a64-wO-EAO" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="R2S-GQ-ppQ"/>
+                            <constraint firstAttribute="trailing" secondItem="a64-wO-EAO" secondAttribute="trailing" id="h4r-yC-pGO"/>
+                            <constraint firstAttribute="bottom" secondItem="vXB-I2-g3m" secondAttribute="bottom" id="iod-HW-PNd"/>
+                            <constraint firstItem="vXB-I2-g3m" firstAttribute="top" secondItem="a64-wO-EAO" secondAttribute="bottom" id="yiF-Hp-xSq"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="133.59999999999999" y="133.5832083958021"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="artBoard" width="433" height="533"/>
+        <image name="notebook" width="373.5" height="527"/>
+    </resources>
+</document>
