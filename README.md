@@ -158,6 +158,16 @@ Copyright © The App Brewery
 
 
 
+### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-nine_39-fe0f-20e3.png" height="18"/> [Bitcoin](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2013%20-%20Weather%20App/Clima-iOS11-master)
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/Clima.gif)
+
+Copyright © The App Brewery
+
+* **Skills learnt**:
+	* `Challenge 3`
+
+
+
 
 ## Syllabus
 Section №     | Name          | Skills gained   | Date Started  | Date Finished | Current Status  
