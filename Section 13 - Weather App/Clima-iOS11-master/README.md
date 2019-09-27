@@ -8,6 +8,9 @@ Pro: Git clone to your Xcode projects folder.
 ## Finished App
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Clima.gif)
 
+## Finished App with Temperature Switcher
+![Finished App](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/blob/master/Section%2013%20-%20Weather%20App/Clima-iOS11-master/ClimaSwitchAdded.png)
+
 ## Fix for Cocoapods v1.0.1 and below
 
 ```ruby
