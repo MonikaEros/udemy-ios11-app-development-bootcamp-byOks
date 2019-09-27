@@ -27,7 +27,9 @@ class WeatherViewController: UIViewController, CLLocationManagerDelegate, Change
     @IBOutlet weak var weatherIcon: UIImageView!
     @IBOutlet weak var cityLabel: UILabel!
     @IBOutlet weak var temperatureLabel: UILabel!
-
+    @IBOutlet weak var switcherLabel: UILabel!
+    
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -42,6 +44,16 @@ class WeatherViewController: UIViewController, CLLocationManagerDelegate, Change
         
     }
     
+
+    @IBAction func switchDegrees(_ sender: UISwitch) {
+        if sender.isOn == true {
+            temperatureLabel.text = "\(weatherDataModel.temperature)°C"
+            switcherLabel.text = "Switch to °F"
+        } else {
+            temperatureLabel.text = "\(Int(weatherDataModel.temperature*9/5+32))°F"
+            switcherLabel.text = "Switch to °C"
+        }
+    }
     
     
     //MARK: - Networking
@@ -108,7 +120,7 @@ class WeatherViewController: UIViewController, CLLocationManagerDelegate, Change
     func updateUIWithWeatherData() {
         
         cityLabel.text = weatherDataModel.city
-        temperatureLabel.text = "\(weatherDataModel.temperature)°"
+        temperatureLabel.text = "\(weatherDataModel.temperature)°C"
         weatherIcon.image = UIImage(named: weatherDataModel.weatherIconName)
     }
     
