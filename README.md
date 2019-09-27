@@ -41,8 +41,8 @@ The summary will be added by me when I finish the course.
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-six_36-fe0f-20e3.png" height="17"/>	       |Destini	       | ✔️   		| ✔️         | [Link](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2010%20-%20Control%20Flow%20-%20Story%20App%20Like%20Lifeline)
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-seven_37-fe0f-20e3.png" height="17"/>	         |Dicee (with AL)| ✔️   	  | ✔️         | [Link](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2011%20-%20AutoLayOUt/Dicee)
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-eight_38-fe0f-20e3.png" height="17"/>	         |Clima	         | ✔️  		  | ✔️        | [Link](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2013%20-%20Weather%20App/Clima-iOS11-master)
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-nine_39-fe0f-20e3.png" height="17"/>	        |Bitcoin | ⚠️ **(in progress)** 	        | ⚠️ **(in progress)**         | [Link]()
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="17"/><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-zero_30-fe0f-20e3.png" height="17"/> 	|00000000000000 | ❌ 	        | ❌         | [Link]()
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-nine_39-fe0f-20e3.png" height="17"/>	        |Bitcoin        | ✔️  		 | ✔️          | [Link](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2015%20-%20Cocoapods%2C%20REST%2C%20APIs%20-%20Build%20a%20Bitcoin%20Price%20Tracker)
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="17"/><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-zero_30-fe0f-20e3.png" height="17"/> 	|FlashChat | ⚠️ **(in progress)** 	        | ⚠️ **(in progress)**         | [Link]()
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-ten_1f51f.png" height="17"/> 	       |00000000000000 | ❌ 	       | ❌         | [Link]()
 
 ## Finished apps
@@ -168,6 +168,16 @@ Copyright © The App Brewery
 
 
 
+### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-zero_30-fe0f-20e3.png" height="18"/> [FlashChat](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2015%20-%20Cocoapods%2C%20REST%2C%20APIs%20-%20Build%20a%20Bitcoin%20Price%20Tracker)
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/Bitcoin.gif)
+
+Copyright © The App Brewery
+
+* **Skills learnt**:
+	* `Challenge 4`
+
+
+
 
 ## Syllabus
 Section №     | Name          | Skills gained   | Date Started  | Date Finished | Current Status  
@@ -186,7 +196,7 @@ Section №     | Name          | Skills gained   | Date Started  | Date Finishe
 12 |<p align="left">[Programming in Swift 4 ***for Intermediates***](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2012%20-%20Swift%20for%20Interm%20(Classes%20and%20Objects))</p>|<ul align="left"><li>Understand `Classes` and `Objects`</li><li>Learn about `Properties`</li><li>How to create and use `Enumerations` `(Enums)`</li><li>Learn the difference between `Functions` and `Methods`</li><li>Learn about `Inheritance` and the `overridekeyword`</li><li>Learn about `Initialization`, including `Designated` and `Convenience Initializers`</li><li>Understand `Optional` Types, `Forced Unwrapping`, `Optional Binding` and `Optional Chaining`</li></ul> |19 Sep 2019|19 Sep 2019|✔️
 13 |<p align="left">[Cocoapods, GPS, APIs, REST and Getting Web Content - Weather App](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2013%20-%20Weather%20App)</p>|<ul align="left"><li>How to use `CocoaPods` to manage and use `open source` code libraries</li><li>How to use the `Command Line` on Mac with Terminal</li><li>Learn about `Networking` calls</li><li>Use public web-based `APIs` to fetch data</li><li>How to parse data organised in `JSON` format</li><li>Learn about `Core Location` and utilising the iPhone’s inbuilt `GPS`</li><li>Learn about navigation between View Controllers using `Segues`</li><li>Introduction to `Delegates` and `Protocols`</li><li>How to pass data between View Controllers</li><li>Learn and use Swift `Switch` statements</li></ul> |19 Sep 2019|20 Sep 2019|✔️
 14 |<p align="left">The Command Line and Terminal</p>|<ul align="left"><li>Command Line Shortcuts</li></ul>|27 Sep 2019|27 Sep 2019|✔️
-15 |<p align="left">***Coding Challenge #4*** - Cocoapods, REST, APIs - Build a Bitcoin Price Tracker</p>|<ul align="left"><li>Developing `Bitcoin Price`  App</li></ul>|27 Sep 2019|27 Sep 2019|⚠️ **(in progress)**
+15 |<p align="left">[***Coding Challenge #4*** - Cocoapods, REST, APIs - Build a Bitcoin Price Tracker](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2015%20-%20Cocoapods%2C%20REST%2C%20APIs%20-%20Build%20a%20Bitcoin%20Price%20Tracker)</p>|<ul align="left"><li>Developing `Bitcoin Price`  App</li></ul>|27 Sep 2019|27 Sep 2019|✔️
 16 |<p align="left">Cloud Database, iOS Animations and Advanced Swift - Make a WhatsApp Clone</p>|<ul align="left"><li>How to integrate third party libraries in your app</li><li>How to `store data` in the cloud using `Firebase`</li><li>How to query the Firebase database</li><li>How to use Firebase for `user authentication`</li><li>How to work with a `UITableView`</li><li>How to use custom cells in a Table View</li><li>How to embed View Controllers in a `Navigation Controller` and understanding the navigation stack</li><li>How to create Segues for navigation</li><li>How to make `custom .xib` files to modify native design components</li><li>Using `Grand Central Dispatch` to queue asynchronous tasks</li></ul>|27 Sep 2019|2* Sep 2019|⚠️ **(in progress)**
 17 |<p align="left">Firebase Version 3</p>|<ul align="left"><li>-</li></ul>|2* Sep 2019|2* Sep 2019|❌
 18 |<p align="left">Git, GitHub and Version Control</p>|<ul align="left"><li>-</li></ul>|2* Sep 2019|2* Sep 2019|❌
