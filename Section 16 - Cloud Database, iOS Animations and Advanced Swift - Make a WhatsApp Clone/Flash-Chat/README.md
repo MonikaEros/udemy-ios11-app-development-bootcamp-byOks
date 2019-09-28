@@ -24,7 +24,6 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
 * Using Grand Central Dispatch to queue asynchronous tasks.
 
 ## Finished app
-[FlashChat](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2016%20-%20Cloud%20Database%2C%20iOS%20Animations%20and%20Advanced%20Swift%20-%20Make%20a%20WhatsApp%20Clone/Flash-Chat)
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Flash%20Chat.gif)
 
 
