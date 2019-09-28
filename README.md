@@ -42,8 +42,9 @@ The summary will be added by me when I finish the course.
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-seven_37-fe0f-20e3.png" height="17"/>	         |Dicee (with AL)| ✔️   	  | ✔️         | [Link](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2011%20-%20AutoLayOUt/Dicee)
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-eight_38-fe0f-20e3.png" height="17"/>	         |Clima	         | ✔️  		  | ✔️        | [Link](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2013%20-%20Weather%20App/Clima-iOS11-master)
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-nine_39-fe0f-20e3.png" height="17"/>	        |Bitcoin        | ✔️  		 | ✔️          | [Link](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2015%20-%20Cocoapods%2C%20REST%2C%20APIs%20-%20Build%20a%20Bitcoin%20Price%20Tracker)
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="17"/><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-zero_30-fe0f-20e3.png" height="17"/> 	|FlashChat | ⚠️ **(in progress)** 	        | ⚠️ **(in progress)**         | [Link](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2016%20-%20Cloud%20Database%2C%20iOS%20Animations%20and%20Advanced%20Swift%20-%20Make%20a%20WhatsApp%20Clone/Flash-Chat)
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-ten_1f51f.png" height="17"/> 	       |00000000000000 | ❌ 	       | ❌         | [Link]()
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="17"/><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-zero_30-fe0f-20e3.png" height="17"/> 	|FlashChat | ✔️ 	        | ✔️         | [Link](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2016%20-%20Cloud%20Database%2C%20iOS%20Animations%20and%20Advanced%20Swift%20-%20Make%20a%20WhatsApp%20Clone/Flash-Chat)
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="17"/><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="17"/> 	|Todoey | ⚠️ **(in progress)** 	        | ⚠️ **(in progress)**         | [Link]()
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="17"/><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-two_32-fe0f-20e3.png" height="17"/> |00000000000000 | ❌ 	       | ❌         | [Link]()
 
 ## Finished apps
 
@@ -174,8 +175,16 @@ Copyright © The App Brewery
 Copyright © The App Brewery
 
 * **Skills learnt**:
-	* `Challenge 4`
-
+	* How to integrate `third party libraries` in your app.
+	* How to store data in the cloud using `Firebase`.
+	* How to query the `Firebase database`.
+	* How to use `Firebase` for `user authentication`.
+	* How to work with a `UITableView`.
+	* How to use custom `cells` in a `Table View`.
+	* How to embed `View Controllers` in a `Navigation Controller` and understanding the `navigation stack`.
+	* How to create `Segues for navigation`.
+	* How to make custom `.xib files` to modify native `design components`.
+	* Using `Grand Central Dispatch` to queue `asynchronous tasks`.
 
 
 
